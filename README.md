@@ -104,7 +104,7 @@ This project is for educational purposes and does not currently use a specific l
 
 ## 👨‍💻 Author
 
-**Vinay**
+**Vinay Venkata Bhargav**
 Engineering Student | Django Developer
 
 ---
